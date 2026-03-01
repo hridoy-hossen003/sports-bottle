@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "HydroBoost Pro 750",
+    "brand": "AquaFlex",
+    "capacity_ml": 750,
+    "material": "Stainless Steel",
+    "insulated": true,
+    "color": "Black",
+    "price_usd": 18.99,
+    "img_url": "https://example.com/images/hydroboost-pro-750.jpg"
+  },
+  {
+    "id": 2,
+    "name": "SprintFlow 600",
+    "brand": "FitSip",
+    "capacity_ml": 600,
+    "material": "BPA-Free Plastic",
+    "insulated": false,
+    "color": "Blue",
+    "price_usd": 9.99,
+    "img_url": "https://example.com/images/sprintflow-600.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ChillMate 1L",
+    "brand": "CoolGear",
+    "capacity_ml": 1000,
+    "material": "Stainless Steel",
+    "insulated": true,
+    "color": "Silver",
+    "price_usd": 24.5,
+    "img_url": "https://example.com/images/chillmate-1l.jpg"
+  },
+  {
+    "id": 4,
+    "name": "PowerHydrate 500",
+    "brand": "ActivePro",
+    "capacity_ml": 500,
+    "material": "Aluminum",
+    "insulated": false,
+    "color": "Red",
+    "price_usd": 12.75,
+    "img_url": "https://example.com/images/powerhydrate-500.jpg"
+  },
+  {
+    "id": 5,
+    "name": "EcoSip 800",
+    "brand": "GreenLife",
+    "capacity_ml": 800,
+    "material": "Glass",
+    "insulated": false,
+    "color": "Green",
+    "price_usd": 15.0,
+    "img_url": "https://example.com/images/ecosip-800.jpg"
+  },
+  {
+    "id": 6,
+    "name": "UltraCool 900",
+    "brand": "HydraMax",
+    "capacity_ml": 900,
+    "material": "Stainless Steel",
+    "insulated": true,
+    "color": "White",
+    "price_usd": 27.99,
+    "img_url": "https://example.com/images/ultracool-900.jpg"
+  },
+  {
+    "id": 7,
+    "name": "QuickSip 650",
+    "brand": "Sportify",
+    "capacity_ml": 650,
+    "material": "BPA-Free Plastic",
+    "insulated": false,
+    "color": "Yellow",
+    "price_usd": 11.49,
+    "img_url": "https://example.com/images/quicksip-650.jpg"
+  },
+  {
+    "id": 8,
+    "name": "ThermoTrack 700",
+    "brand": "TempGuard",
+    "capacity_ml": 700,
+    "material": "Stainless Steel",
+    "insulated": true,
+    "color": "Navy",
+    "price_usd": 22.0,
+    "img_url": "https://example.com/images/thermotrack-700.jpg"
+  },
+  {
+    "id": 9,
+    "name": "FlexiGrip 550",
+    "brand": "MoveWell",
+    "capacity_ml": 550,
+    "material": "Silicone",
+    "insulated": false,
+    "color": "Purple",
+    "price_usd": 13.25,
+    "img_url": "https://example.com/images/flexigrip-550.jpg"
+  },
+  {
+    "id": 10,
+    "name": "PeakHydro 1200",
+    "brand": "EnduraFit",
+    "capacity_ml": 1200,
+    "material": "Stainless Steel",
+    "insulated": true,
+    "color": "Matte Black",
+    "price_usd": 29.99,
+    "img_url": "https://example.com/images/peakhydro-1200.jpg"
+  }
+]
