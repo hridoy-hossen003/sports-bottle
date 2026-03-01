@@ -8,7 +8,7 @@
     "insulated": true,
     "color": "Black",
     "price_usd": 18.99,
-    "img_url": "https://example.com/images/hydroboost-pro-750.jpg"
+    "img_url": "https://i.ibb.co.com/FLXfY0Cn/bottle9.jpg"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "insulated": false,
     "color": "Blue",
     "price_usd": 9.99,
-    "img_url": "https://example.com/images/sprintflow-600.jpg"
+    "img_url": "https://i.ibb.co.com/GvKw3V3Z/bottle8.jpg"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "insulated": true,
     "color": "Silver",
     "price_usd": 24.5,
-    "img_url": "https://example.com/images/chillmate-1l.jpg"
+    "img_url": "https://i.ibb.co.com/N6MqY0XN/bottle7.jpg"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "insulated": false,
     "color": "Red",
     "price_usd": 12.75,
-    "img_url": "https://example.com/images/powerhydrate-500.jpg"
+    "img_url": "https://i.ibb.co.com/pvNMpJjV/bottle6.jpg"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "insulated": false,
     "color": "Green",
     "price_usd": 15.0,
-    "img_url": "https://example.com/images/ecosip-800.jpg"
+    "img_url": "https://i.ibb.co.com/fVynzzpF/bottle5.jpg"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "insulated": true,
     "color": "White",
     "price_usd": 27.99,
-    "img_url": "https://example.com/images/ultracool-900.jpg"
+    "img_url": "https://i.ibb.co.com/Nn7P4VCD/bottle4.webp"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "insulated": false,
     "color": "Yellow",
     "price_usd": 11.49,
-    "img_url": "https://example.com/images/quicksip-650.jpg"
+    "img_url": "https://i.ibb.co.com/rK1zdh8B/bottlee3.jpg"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "insulated": true,
     "color": "Navy",
     "price_usd": 22.0,
-    "img_url": "https://example.com/images/thermotrack-700.jpg"
+    "img_url": "https://i.ibb.co.com/bg46NK0v/bottle2.jpg"
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
     "insulated": false,
     "color": "Purple",
     "price_usd": 13.25,
-    "img_url": "https://example.com/images/flexigrip-550.jpg"
+    "img_url": "https://i.ibb.co.com/rf78jvXX/bottle-1.jpg"
   },
   {
     "id": 10,
@@ -107,6 +107,6 @@
     "insulated": true,
     "color": "Matte Black",
     "price_usd": 29.99,
-    "img_url": "https://example.com/images/peakhydro-1200.jpg"
+    "img_url": "https://i.ibb.co.com/FLXfY0Cn/bottle9.jpg"
   }
 ]
